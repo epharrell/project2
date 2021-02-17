@@ -15,6 +15,7 @@ public class UserInterface {
 		do {
 			System.out.println("\nEnter 1 to view all Students");
 			System.out.println("Enter 2 to view a particular student");
+			System.out.println("Enter 3 to view all Departments");
 			System.out.print("Enter a choice (-1 to quit): ");
 			choice = in.nextInt();
 			
